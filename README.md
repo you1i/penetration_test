@@ -18,7 +18,6 @@
 ·FireFox
 ·7-zip
 ·Clash for Windows
-![壁纸](https://github.com/you1i/penetration_test/assets/80499104/7e23e2b6-75ca-483d-b744-39e01a3d671c)
 
 渗透测试所需工具
 ·本草纲目
